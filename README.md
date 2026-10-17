@@ -90,8 +90,8 @@ Network-Access-Control/
 ├── README.md
 ├── Network_Access_Control.pkt
 └── screenshots/
-    ├── 01-network-topology.png
-    ├── 03-port-security-config.png
+    ├── network-topology.png
+    ├── port-security-config.png
     ├── ....
 ```
 
