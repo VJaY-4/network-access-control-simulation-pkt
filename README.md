@@ -23,8 +23,6 @@ This project implements Cisco Catalyst 2960 switch port security to restrict per
 
 The simulated network consists of a Cisco Catalyst 2960 switch connected to authorized end devices and an unauthorized test device.
 
-![Network Topology](screenshots/01-network-topology.png)
-
 ## Security Implementation
 
 Port security is configured on Fa0/1, Fa0/2, and Fa0/3.
