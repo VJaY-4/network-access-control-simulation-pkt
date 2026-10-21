@@ -68,12 +68,6 @@ These commands verify port-security status, secure MAC addresses, interface cond
 | Port shutdown | Verify violation enforcement |
 | Port recovery | Verify restoration after remediation |
 
-## Results
-
-The project evaluates whether switch port security can restrict MAC addresses and disable protected interfaces following qualifying violations.
-
-Evidence is provided through Packet Tracer configuration, CLI output,  connectivity tests and screenshots.
-
 ## Limitations
 
 - MAC spoofing may bypass MAC-based restrictions.
@@ -103,7 +97,7 @@ Network-Access-Control/
 - Security testing and troubleshooting
 - Technical documentation
 
-## Results Summary
+## Results
 
 The show port-security output confirms that Fa0/1, Fa0/2, and Fa0/3 each had one secure MAC address, a maximum of one, and the shutdown violation action configured.
 
